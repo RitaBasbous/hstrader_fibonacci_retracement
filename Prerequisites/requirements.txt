@@ -1,0 +1,4 @@
+hstrader
+pandas
+plotly
+python-dotenv
