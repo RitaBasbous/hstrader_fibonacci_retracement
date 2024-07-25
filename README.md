@@ -94,7 +94,7 @@ The final visualization is an interactive chart that displays:
 To run the script, simply execute it in your Python environment. Replace the ticker symbol in the `fib_retrace` function call with the desired symbol.
 
 ```python
-fib_retrace('EURUSD')  # Replace with the desired ticker symbol
+fib_retrace('EURUSD')  # Replace with the desired symbol name
 ```
 
 ## Conclusion
