@@ -1,6 +1,6 @@
 # Fibonacci Retracement strategy with python
 
-![Fibonacci Plot](img/fibonacci_plot.png)
+![Fibonacci Plot](img/Fibonacci_plot.png)
 
 This Python script visualizes the Fibonacci retracement levels using historical market data. Fibonacci retracement is a technical analysis tool used to identify potential support and resistance levels in financial markets.
 
