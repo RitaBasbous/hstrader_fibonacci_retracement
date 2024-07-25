@@ -2,3 +2,5 @@ hstrader
 pandas
 plotly
 python-dotenv
+ipywidgets
+IPython
