@@ -2,7 +2,7 @@
 
 ![Fibonacci Plot](img/fibonacci.png)
 
-This Python script visualizes the Fibonacci retracement levels using historical market data. Fibonacci retracement is a technical analysis tool used to identify potential support and resistance levels in financial markets.
+This Python script visualizes the Fibonacci retracement levels using both real-time and historical market data. Fibonacci retracement is a technical analysis tool used to identify potential support and resistance levels in financial markets.
 
 ## Prerequisites
 
@@ -27,15 +27,6 @@ These variables enable secure access to market data from the [HSTRADER](https://
 
 **Reminder:**
 Your unique `CLIENT_ID` and `CLIENT_SECRET` can be obtained from your personal account on the platform. Ensure you keep them confidential to protect your data.
-
-## Usage
-
-1. **Import the necessary modules and load your environment variables.**
-2. **Initialize the `HsTrader` client with your credentials.**
-3. **Retrieve the symbol for the desired currency pair (e.g., ‘EURUSD’).**
-4. **Fetch the market history data at the specified resolution.**
-5. **Calculate the Fibonacci retracement levels.**
-6. **Visualize the data using Plotly to create an interactive candlestick chart with Fibonacci retracement overlays.**
 
 ### Fibonacci Retracement
 
@@ -80,22 +71,6 @@ Fibonacci retracement is a popular technical analysis tool used by traders to id
 
 4. **Combines Well with Other Tools:**
    - Can be used in conjunction with other technical analysis tools for better decision-making.
-
-## Visualization
-
-The final visualization is an interactive chart that displays:
-
-- Candlestick representation of price movements.
-- Fibonacci retracement levels with appropriate color coding.
-- Customizable layout options for the chart dimensions and visibility of the range slider.
-
-## Running the Script
-
-To run the script, simply execute it in your Python environment. Replace the ticker symbol in the `fib_retrace` function call with the desired symbol.
-
-```python
-fib_retrace('EURUSD')  # Replace with the desired symbol name
-```
 
 ## Conclusion
 
