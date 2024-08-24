@@ -2,8 +2,7 @@
 
 ![Fibonacci Plot](img/fibonacci.png)
 
-This Python script visualizes the Fibonacci retracement levels using both real-time and historical market data. Fibonacci retracement is a technical analysis tool used to identify potential support and resistance levels in financial markets.
-
+This Python script visualizes the Fibonacci retracement levels using both real-time and historical market data.
 ## Prerequisites
 
 Ensure you have the requirements file installed.
