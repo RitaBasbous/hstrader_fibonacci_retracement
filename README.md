@@ -25,8 +25,8 @@ CLIENT_SECRET=your_client_secret
 
 These variables enable secure access to market data from the [HSTRADER](https://staging.hstrader.com/login) platform.
 
-**Reminder:**
-Your unique `CLIENT_ID` and `CLIENT_SECRET` can be obtained from your personal account on the platform. Ensure you keep them confidential to protect your data.
+**Note:**
+Your unique `CLIENT_ID` and `CLIENT_SECRET` can be obtained from your personal account on the platform. Keep them confidential to ensure the security of your data.
 
 ### Fibonacci Retracement
 
@@ -58,20 +58,6 @@ Fibonacci retracement is a popular technical analysis tool used by traders to id
    - Represents the lowest point in the selected period.
    - Purpose: Indicates the end point of the retracement.
 
-### Why Use Fibonacci Retracement?
+### What Do Fibonacci Retracement Levels Tell You?
 
-1. **Identifying Key Levels:**
-   - Helps traders identify potential levels of support and resistance.
-
-2. **Predictive Tool:**
-   - Provides insights into potential price movements and reversals.
-
-3. **Widely Used:**
-   - Recognized and utilized by traders globally, increasing its reliability.
-
-4. **Combines Well with Other Tools:**
-   - Can be used in conjunction with other technical analysis tools for better decision-making.
-
-## Conclusion
-
-Fibonacci retracement is a powerful tool for technical analysis, offering traders a method to identify potential support and resistance levels. Its ability to predict possible retracement levels makes it an invaluable indicator for both novice and experienced traders.
+Fibonacci retracements can be used to place entry orders, determine stop-loss levels, or set price targets. For example, a trader may see a stock moving higher. After a move up, it retraces to the 61.8% level. Then, it starts to go up again. Since the bounce occurred at a Fibonacci level during an uptrend, the trader decides to buy. The trader might set a stop loss at the 61.8% level, as a return below that level could indicate that the rally has failed.
